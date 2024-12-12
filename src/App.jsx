@@ -61,7 +61,6 @@ const App = () => {
           </Grid>
         </section>
       </Container>
-      <Footer />
     </div>
   );
 };
