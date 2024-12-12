@@ -11,7 +11,7 @@ const App = () => {
     {
       title: 'Remix Project',
       image: '/assets/Remix.png',
-      description: 'A creative remix of existing digital narratives, enhancing them with interactive elements and modern design.',
+      description: 'I finished this in a NYC Coffee shop right before a super fun trip to Europe with my friend. We both were cramming in assignments extremely stressed. It was also raining; fitting.',
       videoUrl: 'https://drive.google.com/file/d/1l-pR-BDtWQozkyewHxiN5ypcmybSWi_Q/preview',
       embeddedSiteUrl: null,
       location: 'New York City'
@@ -19,7 +19,7 @@ const App = () => {
     {
       title: 'Poetic Data',
       image: '/assets/PoeticData.png',
-      description: 'An innovative project exploring the boundaries of digital storytelling through immersive media.',
+      description: 'This one was finished in College Park with my teammates. Not much of a story to tell here.',
       videoUrl: 'https://drive.google.com/file/d/1jNEBCOEhuOBkHRhTFRxOpPk1VvdErDho/preview',
       embeddedSiteUrl: null,
       location: 'College Park'
@@ -27,7 +27,7 @@ const App = () => {
     {
       title: 'Hypertext Project',
       image: '/assets/Hypertext.png',
-      description: 'A hypertext-based narrative that allows users to navigate through multiple storylines seamlessly.',
+      description: 'I finished this at La Colombe in DC. I had energy running through my veins when coding up the streaming text animation. Maybe that is why the text is moving so fast.',
       videoUrl: null,
       embeddedSiteUrl: 'https://ds-assignment-6hf27d2mo-singvir23s-projects.vercel.app/',
       location: 'Washington, DC'
